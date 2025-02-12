@@ -31,7 +31,6 @@ After validation, the dataset remains **15,000 rows and 8 columns** without miss
 
 ## Executive Summary
 
----
 
 - **Customer Distribution:** Email is the most widely used approach, reaching nearly half the customers, followed by Call and then the combined Email + Call approach. However, despite reaching fewer customers, Email + Call generates significantly more revenue than Call alone.
 - **Revenue Trends:** While Email initially brought in the most revenue, it declined sharply over the six weeks. Email + Call showed the most consistent growth and ultimately generated the highest revenue per customer. This indicates that building relationships with customers over time leads to larger sales.
@@ -40,11 +39,10 @@ After validation, the dataset remains **15,000 rows and 8 columns** without miss
 
 ## Insightful Report
 
----
 
 ### How many customers were there for each approach?
 
-![image.png](attachment:5ab9c977-b12d-472f-a6e9-5b648dbc83f9:image.png)
+![image.png]([attachment:5ab9c977-b12d-472f-a6e9-5b648dbc83f9:image.png](https://github.com/chanu-tha/images/blob/main/pen&brush_folder/Customer_contribution.png?raw=true))
 
 Over the past six weeks, **Email** has been the dominant sales approach, reaching 7,466 customers (49.77%). **Call** follows with 4,962 customers (33.08%), while **Email + Call** has reached 2,572 customers (17.15%).
 
