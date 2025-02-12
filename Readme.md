@@ -1,6 +1,5 @@
 ## Project Backgroud
 
----
 
 Six weeks ago we launched a new line of office stationery. Despite the world becoming
 increasingly digital, there is still demand for notebooks, pens and sticky notes.
@@ -10,7 +9,6 @@ email and phone calls, as well as combining the two**. We need to make sure we a
 
 ## Cleaning Process and Data Validation
 
----
 
 The dataset contains 15000 rows and 8 columns before cleaning and validation. As I have validate all the columns against the criteria in the dataset table
 
